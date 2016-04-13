@@ -33,14 +33,7 @@ public class Main {
             return false;
         }
     }
-        /*if(emptyString.length() == 6){
-            System.out.println(emptyString.length());
-            return true;
-        }
-        else{
-            System.out.println(emptyString.length());
-            return false;
-        }*/
+
 
 
     public void printVariables(){
